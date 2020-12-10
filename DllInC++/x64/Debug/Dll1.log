@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Le répertoire Output ne se termine pas par une barre oblique finale. Cette instance de build ajoutera une barre oblique, comme requis, pour permettre l'évaluation correcte du répertoire Output.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Le répertoire intermédiaire (x64\Debug\) contient des fichiers partagés provenant d'un autre projet (Dll1.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  pch.cpp
+  dllmain.cpp
+     Création de la bibliothèque ..\x64\Debug\DllInC++.lib et de l'objet ..\x64\Debug\DllInC++.exp
+  Dll1.vcxproj -> C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\x64\Debug\DllInC++.dll

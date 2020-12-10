@@ -1,0 +1,9 @@
+C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\TestInWinform2\bin\x64\Debug\TestInWinform2.exe.config
+C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\TestInWinform2\bin\x64\Debug\TestInWinform2.exe
+C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\TestInWinform2\bin\x64\Debug\TestInWinform2.pdb
+C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\TestInWinform2\obj\x64\Debug\TestInWinform2.Form1.resources
+C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\TestInWinform2\obj\x64\Debug\TestInWinform2.Properties.Resources.resources
+C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\TestInWinform2\obj\x64\Debug\TestInWinform2.csproj.GenerateResource.cache
+C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\TestInWinform2\obj\x64\Debug\TestInWinform2.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\TestInWinform2\obj\x64\Debug\TestInWinform2.exe
+C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\TestInWinform2\obj\x64\Debug\TestInWinform2.pdb

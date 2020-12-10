@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (Dll1.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  dllmain.cpp
+     Création de la bibliothèque C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\Debug\DllInC++.lib et de l'objet C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\Debug\DllInC++.exp
+  Dll1.vcxproj -> C:\Users\mehdi\source\repos\WindowsApp3\WindowsApp3\bin\Debug\DynamicDllLoader-master\Debug\DllInC++.dll
