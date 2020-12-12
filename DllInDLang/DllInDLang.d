@@ -43,7 +43,7 @@ extern(C)
 	{
 		return a + b ;
 	}
-	export void fuckthem()
+	export void fuckthem()//just for fun :)
 	{
 		bool Resp;
 		uint RespOnse;
